@@ -23,6 +23,8 @@ You can install the required packages using:
 ```bash
 pip install pandas numpy scikit-learn xgboost streamlit
 
+Or you can run requirements.txt file in terminal for the same ( pip install -r requirements.txt)
+
 ## Running the Jupyter Notebook
 
 -- Ensure you have Jupyter Notebook installed. If not, you can install it using following command  or you can use anaconda:
