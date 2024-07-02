@@ -12,7 +12,7 @@ This project uses the Adult Census Income dataset to build a machine learning mo
 
 ## Requirements
 
-- Python 3.7 or higher
+- Python 3.11 or higher
 - `pandas`
 - `numpy`
 - `scikit-learn`
@@ -25,7 +25,7 @@ pip install pandas numpy scikit-learn xgboost streamlit
 
 ## Running the Jupyter Notebook
 
--- Ensure you have Jupyter Notebook installed. If not, you can install it using or you can use anaconda:
+-- Ensure you have Jupyter Notebook installed. If not, you can install it using following command  or you can use anaconda:
     pip install notebook
 -- Open the Jupyter Notebook:
     adult-census-income-prediction.ipynb
