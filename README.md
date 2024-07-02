@@ -13,7 +13,7 @@ This project uses the Adult Census Income dataset to build a machine learning mo
 ## Requirements
 
 - Python 3.11 or higher
-- `pandas`
+- `pandas'
 - `numpy`
 - `scikit-learn`
 - `xgboost`
